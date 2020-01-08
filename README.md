@@ -7,24 +7,29 @@ A curated list of Site Reliability and Production Engineering tools
 
 ## Contents
 
+<!-- toc -->
+
 - [Development](#development)
-  - [Source Code Management](#source-code-management)
-  - [Project Management &amp; Issue Tracking Software](#project-management--issue-tracking-software)
-  - [Bug / Defect Tracking Software](#bug--defect-tracking-software)
-  - [Code Editors and IDE's](#code-editors-and-ides)
+  * [Source Code Management](#source-code-management)
+  * [Project Management & Issue Tracking Software](#project-management--issue-tracking-software)
+  * [Bug / Defect Tracking Software](#bug--defect-tracking-software)
+  * [Code Editors and IDE's](#code-editors-and-ides)
 - [Continous Testing](#continous-testing)
 - [Continous Integration](#continous-integration)
-  - [Build](#build)
-  - [Integration](#integration)
+  * [Build](#build)
+  * [Integration](#integration)
 - [Continous Delivery](#continous-delivery)
-  - [Deployment](#deployment)
-  - [Infrastructure orchestration](#infrastructure-orchestration)
-  - [Container](#container)
-  - [Docker Registry](#docker-registry)
-  - [Container Orchestration](#container-orchestration)
+  * [Deployment](#deployment)
+  * [Infrastructure orchestration](#infrastructure-orchestration)
+  * [Container](#container)
+  * [Docker Registry](#docker-registry)
+  * [Container Orchestration](#container-orchestration)
 - [Continous Monitoring](#continous-monitoring)
 - [Incident Management / Incident Response / IT Alerting / On-Call](#incident-management--incident-response--it-alerting--on-call)
-  - [IT Service Management](#it-service-management)
+  * [IT Service Management](#it-service-management)
+- [Licence](#licence)
+
+<!-- tocstop -->
 
 ## Development
 ### Source Code Management
